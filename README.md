@@ -1,2 +1,0 @@
-# Blinkit-Revenue-Analysis
-MySQL
